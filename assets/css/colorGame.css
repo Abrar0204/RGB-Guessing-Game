@@ -1,0 +1,50 @@
+.square{
+    width: 30%;
+    background-color: blue;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+}
+
+#backDrop{
+    background-color: rgb(0, 123, 255);
+}
+
+body{
+
+    background-color: #232323;
+
+}
+
+.container{
+
+    margin: 0 auto;
+    max-width: 500px;
+
+}
+
+.navbar-nav a.nav-item.nav-link{
+    color: rgb(0, 123, 255);
+}
+
+.navbar-nav.sta a.nav-item.nav-link:hover{
+
+    color: rgb(0, 123, 255);
+
+}
+
+a.nav-item.nav-link.mode{
+    
+    color: #f8f9fa;
+    background-color: rgb(0, 123, 255);
+
+}
+
+nav{
+    font-weight: bold;
+}
+
+
+div a.nav-item.nav-link.disabled{
+    color: black;
+}
